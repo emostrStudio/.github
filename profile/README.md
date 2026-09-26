@@ -31,8 +31,8 @@
 ## Стек
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emostrStudio/.github/main/profile/assets/stack-dark.png">
-  <img alt="Мы доверяем только лучшим: TypeScript, React, Next.js, Vue.js, Nuxt, PHP, Laravel, NGINX, Ubuntu, Docker" src="https://raw.githubusercontent.com/emostrStudio/.github/main/profile/assets/stack-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emostrStudio/.github/main/profile/assets/stack-dark.png?v=2">
+  <img alt="Мы доверяем только лучшим: TypeScript, React, Next.js, Vue.js, Nuxt, PHP, Laravel, PostgreSQL, NGINX, Ubuntu, Docker" src="https://raw.githubusercontent.com/emostrStudio/.github/main/profile/assets/stack-light.png?v=2">
 </picture>
 
 ## Как мы работаем
