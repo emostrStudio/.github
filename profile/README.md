@@ -51,9 +51,7 @@
 
 ## Репозитории
 
-| | |
-| :-- | :-- |
-| [**website**](https://github.com/emostrStudio/website) | Сайт [emostr.com](https://emostr.com): Next.js 16, TypeScript 7, Tailwind CSS 4, деплой на Ubuntu + NGINX через GitHub Actions |
+- [**website**](https://github.com/emostrStudio/website) — сайт [emostr.com](https://emostr.com): Next.js 16, TypeScript 7, Tailwind CSS 4, деплой на Ubuntu + NGINX через GitHub Actions
 
 <br>
 
